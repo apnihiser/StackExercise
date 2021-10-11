@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SeactionFourStack
+namespace SectionFourStack
 {
     class Stack
     {

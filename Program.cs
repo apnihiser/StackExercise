@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System;
 
-namespace SeactionFourStack
+namespace SectionFourStack
 {
     class Program
     {
